@@ -1,0 +1,4 @@
+dciss_my:
+    resource: "@dcissMyBundle/Resources/config/routing.yml"
+    prefix:   /
+
